@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Fried Salmon Special",
+        "image" : "images/seafoods.jpg",
+        "description" : "A delicious fried salmon served with a side of vegetables and your choice of sauce."
+    },
+    {
+        "name" : "Sumptuous Desserts",
+        "image" : "images/desserts.jpg",
+        "description" : "A selection of decadent desserts to satisfy your sweet tooth, including cakes, pastries, and ice cream."
+    },
+    {
+        "name" : "Buffet",
+        "image" : "images/buffet.jpg",
+        "description" : "A variety of dishes available for self-service, including appetizers, main courses, and desserts."
+    }
+]
