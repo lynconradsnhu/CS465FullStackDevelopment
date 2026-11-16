@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Gale Reef",
+        "image" : "reef1.jpg",
+        "description" : "Gale Reef is a beautiful coral reef located in the Caribbean Sea. It is known for its vibrant marine life and crystal-clear waters, making it a popular destination for snorkeling and diving enthusiasts."
+    },
+    {
+        "name" : "Dawson's Reef",
+        "image" : "reef2.jpg",
+        "description" : "Dawson's Reef is a stunning coral reef located off the coast of Australia. It is home to a diverse array of marine species, including colorful fish, sea turtles, and various types of coral. Visitors can explore the reef through guided snorkeling tours or scuba diving excursions."
+    },
+    {
+        "name" : "Claire's Reef",
+        "image" : "reef3.jpg",
+        "description" : "Claire's Reef is a hidden gem located in the Pacific Ocean. It is known for its unique coral formations and abundant marine life. The reef offers excellent opportunities for underwater photography and is a favorite spot for marine biologists studying coral ecosystems."
+    }
+]

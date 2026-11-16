@@ -1,0 +1,23 @@
+[
+    {
+        "title" : "Experience Kayaking!",
+        "image" : "images/kayak.jpg",
+        "date" : "2026-11-03",
+        "author" : "Juan De La Cruz",
+        "description" : "Join us for an unforgettable kayaking adventure! Explore the serene waters and enjoy the beauty of nature. Perfect for beginners and experienced kayakers alike."
+    },
+    {
+        "title" : "Beach Volleyball Tournament",
+        "image" : "images/sea-sound.jpg",
+        "date" : "2026-09-10",
+        "author" : "Carlos Reyes",
+        "description" : "Join our beach volleyball tournament! Compete with friends or make new ones. Prizes for the winners and fun for everyone!"
+    },
+    {
+        "title" : "Buffet Dinner by the Beach",
+        "image" : "images/buffet.jpg",
+        "date" : "2026-08-15",
+        "author" : "Maria Santos",
+        "description" : "Indulge in a delicious buffet dinner by the beach. Enjoy a variety of dishes while listening to the soothing sounds of the waves."
+    }
+]

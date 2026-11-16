@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "First Class Room",
+        "image" : "images/first-class.jpg",
+        "description" : "This is a first class room with a king size bed, a private bathroom, and a balcony.",
+        "rate" : "220 / Day"
+    },
+    {
+        "name" : "Deluxe Room",
+        "image" : "images/deluxe.jpg",
+        "description" : "This is a deluxe room with a queen size bed, a private bathroom, and a balcony.",
+        "rate" : "150 / Day"
+    },
+    {
+        "name" : "Suite Room",
+        "image" : "images/suite.jpg",
+        "description" : "This is a suite room with a king size bed, a private bathroom, a living room, and a balcony.",
+        "rate" : "180 / Day"
+    }
+]
